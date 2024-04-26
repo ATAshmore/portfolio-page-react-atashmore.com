@@ -1,2 +1,5 @@
 # atashmore.com
-- ** Language**: JavaScript
+- **Language** : HTML
+- **Framework** : React
+- **Styling** : Tailwind CSS
+- **Deployment**: Vercel
